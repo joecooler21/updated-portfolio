@@ -1,0 +1,68 @@
+
+.jumbotron {
+    text-align: center;
+    background-color:rgb(60, 67, 160);
+    color: white;
+    padding: 20px;
+    font-family: 'Titillium Web', sans-serif;
+}
+
+.button {
+    width: 100%;
+    height: 50px;
+}
+
+body {
+    background-color:rgb(111, 118, 216);
+}
+
+img {
+    margin-bottom: 30px;
+    width: 100%;
+}
+
+label {
+    padding: 5px;
+    margin-bottom: 0px;
+    color: white;
+    background-color:rgb(60, 67, 160);
+    width: 100%;
+    text-align: center;
+    font-family: 'Titillium Web', sans-serif;
+}
+
+.yellow {
+    color: rgb(245, 245, 80);
+}
+
+.green {
+    color: rgb(171, 245, 171);
+}
+
+.red {
+    color: rgb(255, 200, 200);
+}
+
+.blue {
+    color: rgb(198, 198, 245);
+}
+
+.summary {
+    padding: 5px;
+    font-family: 'Titillium Web', sans-serif;
+    color: white;
+    font-size: 18px;
+}
+
+.project-link {
+    font-size: 13px;
+}
+
+a {
+    color: rgb(255, 255, 196);
+}
+
+a:hover {
+    color: rgb(255, 255, 196);
+    text-decoration: none;
+}
